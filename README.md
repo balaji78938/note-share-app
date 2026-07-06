@@ -41,6 +41,9 @@ NoteShare is a MERN stack collaborative notes sharing web app. Users can create 
 
 ![My Notes](docs/screenshots/08-note-dashboard.png)
 
+### Create New Note
+![New Note](docs/screenshots/09-createnote.png)
+
 ### Shared Notes
 
 ![Shared Notes](docs/screenshots/06-shared-notes.png)
@@ -187,10 +190,3 @@ The seed data includes shared notes, edit-history entries, and sample image URLs
 ```bash
 npm run build
 ```
-
-## Notes for GitHub
-
-- Commit `README.md`, `package.json`, `package-lock.json`, `src/`, `server/`, `.env.example`, and `docs/screenshots/`.
-- Do not commit `node_modules/`.
-- Do not commit real production secrets.
-- Uploaded user images in `server/uploads/` are local runtime files; keep only sample images if you intentionally want them in the repository.
