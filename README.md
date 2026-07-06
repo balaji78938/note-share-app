@@ -39,7 +39,7 @@ NoteShare is a MERN stack collaborative notes sharing web app. Users can create 
 
 ### My Notes
 
-![My Notes](docs/screenshots/05-my-notes.png)
+![My Notes](docs/screenshots/08-note-dashboard.png)
 
 ### Shared Notes
 
